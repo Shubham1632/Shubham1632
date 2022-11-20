@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shubhamgangurde16@gmail.com**
 
-- ⚡ Fun fact **Nothing is absolute secure**
+- ⚡ Fun fact **Elon is Alien**
 ---
 <h3 align="left">Connect with me:</h3>
 
