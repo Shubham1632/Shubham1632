@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/shubhamgangurde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamgangurde16" height="30" width="40" />  </a>
 <a href="https://www.leetcode.com/shubham163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham163" height="30" width="40" />  </a>
-<a href="https://linkedin.com/in/shubham-gangurde-46555b179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-gangurde-46555b179" height="30" width="40" />  </a>
+<a href="https://www.linkedin.com/in/ShubhamGangurde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-gangurde-46555b179" height="30" width="40" />  </a>
 <a href="https://medium.com/@shubhamgangurde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhamgangurde16" height="30" width="40" />  </a>
 
 
