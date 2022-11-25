@@ -2,17 +2,15 @@
 <h1 align="left">Hi 👋, I'm Shubham Gangurde</h1>
 <h3 align="left">A passionate Blockchain Developer from India</h3>
 
-- 🌱 I’m currently learning **Hardhat, React, Solidity**
-
-- 👨‍💻 All of my projects are available at [MY repositories](https://github.com/Shubham1632?tab=repositories)
+- 🌱 Learning **Hardhat, React, Solidity**
 
 - 💬 Ask me about **Blockchain, C++, DSA, Problem Solving**
 
-- 📫 How to reach me **shubhamgangurde16@gmail.com**
+- 📫 Reach me at **shubhamgangurde16@gmail.com**
 
 - ⚡ currently looking for opportunities from web3 space
  
-- <p align="left">  ❤️  Hobbies: <b>Travel⛰️ | Cimena 🎧 | Badminton🏸 | </b></p>
+- <p align="left">  ❤️  Hobbies: <b> Travel ⛰️ | Cimena 🎧 | Badminton🏸 </b></p>
 
 ---
 <h3 align="left">Connect with me:</h3>
