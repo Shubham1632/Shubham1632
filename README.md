@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shubham Gangurde</h1>
-<h3 align="center">A passionate Blockchain Developer from India</h3>
+<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+<h1 align="left">Hi 👋, I'm Shubham Gangurde</h1>
+<h3 align="left">A passionate Blockchain Developer from India</h3>
 
 - 🌱 I’m currently learning **Hardhat, React, Solidity**
 
@@ -9,16 +10,22 @@
 
 - 📫 How to reach me **shubhamgangurde16@gmail.com**
 
-- ⚡ Fun fact **Elon is Alien**
+- ⚡ currently looking for opportunities from web3 space
+ 
+- <p align="left">  ❤️  Hobbies: <b>Travel⛰️ | Cimena 🎧 | Badminton🏸 | </b></p>
+
 ---
 <h3 align="left">Connect with me:</h3>
+ 
 
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/shubhamgangurde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamgangurde16" height="30" width="40" />  </a>
-<a href="https://www.leetcode.com/shubham163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham163" height="30" width="40" />  </a>
-<a href="https://www.linkedin.com/in/ShubhamGangurde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-gangurde-46555b179" height="30" width="40" />  </a>
-<a href="https://medium.com/@shubhamgangurde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhamgangurde16" height="30" width="40" />  </a>
 
+<a href="https://www.linkedin.com/in/ShubhamGangurde/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+<a href="https://auth.geeksforgeeks.org/user/shubhamgangurde16" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=geeksforgeeks&color=23E34F26&style=for-the-badge&logo=GeeksforGeeks&logoColor=whitesmoke" alt="Linkedin"></a> 
+<a href="https://leetcode.com/shubham163/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Leetcode&color=%23E34F26&style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode"></a>
+<a href="https://medium.com/@shubhamgangurde16" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Medium&color=white&style=for-the-badge&logo=Medium&logoColor=black" alt="Leetcode"></a>
+
+  
 
 </p>
 
@@ -32,4 +39,7 @@
 [![](https://visitcount.itsvg.in/api?id=Shubham1632&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham1632&show_icons=true&locale=en&layout=compact" alt="shubham1632" /></p>
+<div align="center">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Shubham1632&show_icons=true&theme=slateorange&title_color=FF9058&text_color=fff&icon_color=fff&locale=en&hide_border=true&bg_color=00000F" alt="neha" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham1632&show_icons=true&theme=slateorange&title_color=FF9058&text_color=fff&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=00000F" alt="gabrlcj" />
+</div>
