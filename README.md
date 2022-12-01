@@ -1,8 +1,8 @@
 <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
-<h1 align="left">Hi there ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm Shubham Gangurde</h1>
+<h1 align="left">Hi there ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> <br/>I'm Shubham Gangurde</h1>
 <h3 align="left">A passionate Blockchain Developer from India</h3>
 
-- 🌱 Learning **Hardhat, React, Solidity**
+- 🌱 Learning **Hardhat, React, Solidity, Next.Js**
 
 - 💬 Ask me about **Blockchain, C++, DSA, Problem Solving**
 
@@ -17,7 +17,8 @@
  
 
 <p align="left">
-
+ 
+<a href="https://shubham1632.github.io/My-portfolio/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=blue&style=for-the-badge&logo=web&logoColor=whitesmoke" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/ShubhamGangurde/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
 <a href="https://auth.geeksforgeeks.org/user/shubhamgangurde16" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=geeksforgeeks&color=23E34F26&style=for-the-badge&logo=GeeksforGeeks&logoColor=whitesmoke" alt="Linkedin"></a> 
 <a href="https://leetcode.com/shubham163/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Leetcode&color=%23E34F26&style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode"></a>
