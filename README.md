@@ -1,9 +1,13 @@
 
 ![gitBackground](https://user-images.githubusercontent.com/79448312/209074189-a09bcc40-96f4-4339-a39d-c1e1df76b054.png)
 
-<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
-<h1 align="left">Hi there ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> <br/>I'm Shubham Gangurde</h1>
-<h3 align="left">A passionate Blockchain Developer from India</h3>
+<!-- <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/> -->
+<h1 align = "center" >Hi there ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm Shubham Gangurde</h1>
+<h3 align="center">A passionate Blockchain Developer from India</h3>
+
+--- 
+
+ <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/> 
 
 - 🌱 Learning **Hardhat, React, Solidity, Next.Js**
 
