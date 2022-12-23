@@ -1,10 +1,11 @@
 
-![git_backgound1](https://user-images.githubusercontent.com/79448312/209321257-fa9617f8-7c79-4075-9939-f6133f119cce.png)
+<!-- ![git_backgound1](https://user-images.githubusercontent.com/79448312/209321257-fa9617f8-7c79-4075-9939-f6133f119cce.png) -->
 
 <!-- <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/> -->
 <h1 align = "center" >Hi there ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm Shubham Gangurde</h1>
 <h3 align="center">A passionate Blockchain Developer from India</h3>
 
+---
 
  <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/> 
 
@@ -15,8 +16,14 @@
 - 📫 Reach me at **shubhamgangurde16@gmail.com**
 
 - ⚡ currently looking for opportunities from web3 space
+
+- 📄 visit my portfolio site - [**go to portfolio**](https://shubham1632.github.io/My-portfolio/)
  
-- <p align="left">  ❤️  Hobbies: <b> Travel ⛰️ | Cimena 🎧 | Badminton🏸 </b></p>
+- ❤️ Hobbies:  **Travel ⛰️ | Cimena 🎧 | Badminton🏸** 
+ 
+- 📖 Love reading books: **Thriller | Self-Help | Biography**
+
+- 📽️ Movie Lover: **FeedGood | Slice of Life | Drama**
 
 ---
 <h3 align="left">Connect with me:</h3>
