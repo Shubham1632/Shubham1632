@@ -35,7 +35,9 @@
 <a href="https://www.linkedin.com/in/ShubhamGangurde/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
 <a href="https://auth.geeksforgeeks.org/user/shubhamgangurde16" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=geeksforgeeks&color=23E34F26&style=for-the-badge&logo=GeeksforGeeks&logoColor=whitesmoke" alt="Linkedin"></a> 
 <a href="https://leetcode.com/shubham163/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Leetcode&color=%23E34F26&style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode"></a>
-<a href="https://medium.com/@shubhamgangurde16" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Medium&color=white&style=for-the-badge&logo=Medium&logoColor=black" alt="Leetcode"></a>
+<a href="https://medium.com/@shubhamgangurde16" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Medium&color=white&style=for-the-badge&logo=Medium&logoColor=black" alt="Medium"></a>
+<a href="https://www.npmjs.com/~shubhamgangurde" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=npm&color=white&style=for-the-badge&logo=npm&logoColor=red" alt="NPM"></a>
+  
 
   
 
