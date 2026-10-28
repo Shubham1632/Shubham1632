@@ -31,7 +31,7 @@
 
 <p align="left">
  
-<a href="https://shubham1632.github.io/My-portfolio/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=blue&style=for-the-badge&logo=web&logoColor=whitesmoke" alt="Portfolio"></a>
+<a href="https://shubhamgangurde.site" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=blue&style=for-the-badge&logo=web&logoColor=whitesmoke" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/ShubhamGangurde/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
 <a href="https://auth.geeksforgeeks.org/user/shubhamgangurde16" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=geeksforgeeks&color=23E34F26&style=for-the-badge&logo=GeeksforGeeks&logoColor=whitesmoke" alt="Linkedin"></a> 
 <a href="https://leetcode.com/shubham163/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Leetcode&color=%23E34F26&style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode"></a>
