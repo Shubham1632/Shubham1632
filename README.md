@@ -17,7 +17,7 @@
 
 - ⚡ working on developing an AI to take my own job 😅
 
-- 📄 visit my portfolio site - [**go to portfolio**](https://shubham1632.github.io/My-portfolio/)
+- 📄 visit my portfolio site - [**go to portfolio**](https://shubhamgangurde.site)
  
 - ❤️ Hobbies:  **Travel ⛰️ | Cimena 🎧 | Badminton🏸** 
  
